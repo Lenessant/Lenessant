@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="assets/banner.svg" alt="Lenessant"/>
+<img width="100%" src="assets/banner-cybersigil.svg" alt="Lenessant"/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=18&pause=1200&color=FF6F9C&center=true&vCenter=true&width=520&lines=A+designer's+soul%2C+a+developer's+brain;Building+impactful+systems+%F0%9F%8C%B8;...with+a+side+of+cute+little+projects" alt="typing svg"/>
 </div>
