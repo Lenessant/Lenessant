@@ -77,7 +77,7 @@ I'm drawn to projects where good design and good engineering aren't separate ste
   <a href="mailto:vitug.rollylene@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFF0F5?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFF0F5" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rollylene-vitug-657685373/)">
+  <a href="https://www.linkedin.com/in/rollylene-vitug-657685373/">
     <img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFF0F5" />
   </a>
   <a href="https://yourportfolio.com">
