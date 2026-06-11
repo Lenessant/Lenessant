@@ -19,7 +19,7 @@
 
 I'm Lene, a full-stack developer with a strong design eye and a growing interest in AI systems, including Large Language Models (LLMs) and Machine Learning / Deep Learning (ML/DL).
 
-> *(Quick note for fellow learners: LLMs are actually a type of deep learning model, specifically large neural networks trained on huge amounts of text. ML is the broad field, DL is a subset of ML using neural networks, and LLMs are a specialized application of DL. So you're not far off at all.)*
+> *(Quick note for fellow learners: LLMs are actually a type of deep learning model, specifically large neural networks trained on huge amounts of text. ML is the broad field, DL is a subset of ML using neural networks, and LLMs are a specialized application of DL.)*
 
 I care about the full picture, not just whether something works, but whether it feels right to use. That's where my UI/UX background comes in. I think in flows, hierarchies, spacing, and emotion, then bring it to life in code.
 
