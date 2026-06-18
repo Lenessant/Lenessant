@@ -80,12 +80,16 @@ I'm drawn to projects where good design and good engineering aren't separate ste
 ### 🌷 Let's Connect
 
 <p align="center">
-  <a href="vitug.rollylene@gmail.com">
+  <a href="https://my-portfolio-six-zeta-68.vercel.app">
+    <img src="https://img.shields.io/badge/Profile-FFF0F5?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFF0F5" />
+  </a>
+  <a href="mailto:vitug.rollylene@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFF0F5?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FFF0F5" />
   </a>
   <a href="https://www.linkedin.com/in/rollylene-vitug-657685373/">
     <img src="https://img.shields.io/badge/LinkedIn-FFF0F5?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFF0F5" />
   </a>
+</p>
 
 
 <div align="center">
